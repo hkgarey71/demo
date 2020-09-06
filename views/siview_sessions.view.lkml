@@ -88,7 +88,7 @@ view: siview_sessions {
     sql: ${TABLE}."SESSION_DATE" ;;
   }
 
-  dimension: session_duration {
+  measure: session_duration {
     type: number
     sql: ${TABLE}."SESSION_DURATION" ;;
   }
