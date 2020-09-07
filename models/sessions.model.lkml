@@ -1,5 +1,3 @@
-
-
 connection: "sisu_demo"
 
 include: "*.view"
