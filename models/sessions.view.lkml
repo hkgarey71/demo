@@ -34,6 +34,11 @@
 
     dimension: household_income {
       type: string
+      link: {
+        label: "Understand why in Sisu"
+        url: "https://vip.sisu.ai/projects/2212/objectives/45332/"
+        icon_url : " "
+      }
       sql: ${TABLE}."HOUSEHOLD_INCOME" ;;
     }
 
@@ -109,11 +114,6 @@
 
     dimension: tenure_in_months {
       type: string
-      link: {
-        label: "drill down"
-        url: "https://vip.sisu.ai/projects/2212/objectives/45312/"
-        icon_url : " "
-      }
       sql: ${TABLE}."TENURE_IN_MONTHS" ;;
     }
 
