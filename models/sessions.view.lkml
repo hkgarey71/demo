@@ -36,7 +36,7 @@
       type: string
       link: {
         label: "Understand why in Sisu"
-        url: "https://vip.sisu.ai/projects/2212/objectives/45332/"
+        url: "https://vip.sisu.ai/projects/4725/metrics/17932/analyses/101475?view=default"
         icon_url : " "
       }
       sql: ${TABLE}."HOUSEHOLD_INCOME" ;;
